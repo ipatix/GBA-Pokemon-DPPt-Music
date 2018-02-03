@@ -1,0 +1,68 @@
+All numbers are decimal - NOT HEXADECIMAL
+
+351 - Msytery Zone
+353 - Wild Pokemon Defeat
+354 - Gym Leader Deafeat
+355 - Elite 4 Defeat
+359 - Route 201 (day)
+360 - Route 205 (day)
+361 - Route 210 (day)
+362 - Hearthome City (day)
+363 - Sandgem Town (day)
+364 - Gym
+366 - Eterna Forest
+374 - Opening
+379 - Encounter Kid!
+382 - Veilstone City (day)
+393 - Contest - Easy
+394 - Contest - Hard
+398 - Canalave City (day)
+399 - Jubilife City (day)
+400 - Pokemon Center Type 1
+401 - Route 203 (day)
+402 - Route 209 (day)
+405 - Twinleaf Town (day)
+406 - Mt. Coronet
+412 - Trainer Defeat
+418 - Route 216 (day)
+419 - Team Galactic Appears
+422 - Pokemon League (day)
+424 - Galactic Defeat
+426 - Game Corner
+427 - Solaceon Town (day)
+429 - Inside the Pokemon League
+430 - Team Galactic Hideout
+432 - Oreburgh Mine
+433 - Sunnyshore City (day)
+436 - You're the Champ
+437 - Eterna City (day)
+438 - Oreburgh Gate (day)
+450 - The Elite 4 Appear!
+452 - Contest Hall
+453 - Search for the Red Gyarados (TV program)
+454 - Champion Cynthia
+455 - Ending Credits
+459 - Battle Points Earned
+469 - The Battle Factory
+471 - Frontier Brain Battle
+474 - Wild Pokemon Battle
+475 - Team Galactic Battle
+476 - Trainer Battle
+477 - Gym Leader Battle
+478 - Champion Cynthia Battle
+479 - Uxie, Mesprit and Azelf Battle
+480 - Dialga and Palkia Battle
+482 - Elite 4 Battle
+483 - Galactic Boss Cyrus Battle
+484 - Cynthia Defeat
+491 - Oreburgh City (day)
+503 - Route 206 (day)
+512 - Floaroma Town (day)
+519 - TV station
+540 - GTC
+544 - WiFi Plaza
+545 - Route 225
+546 - Distortion World
+547 - Lake
+548 - Valor Lakefront
+551 - Giratina Battle

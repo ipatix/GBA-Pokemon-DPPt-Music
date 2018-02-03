@@ -1,0 +1,6 @@
+Remapped RAM (BPED) regions:
+0x03006380-0x03007330 moved to 0x0203E000-0x0203EFB0			--- to make room for the sections mentioned below
+0x03001AA8-0x030022A8 moved to 0x03006380-0x03006EB4 (enlarged!)	--- extended IWRAM area for the new mixer code
+0x03001340-0x03001660 moved to 0x03006ED0-0x03007330 (enlarged!)	--- extended IWRAM area for the mplay_000 track variables (up to 14 tracks rather than 10)
+
+TODO BPRE
